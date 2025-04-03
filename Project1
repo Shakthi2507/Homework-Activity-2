@@ -1,0 +1,49 @@
+<doctype html>
+    <html>
+        <head>
+            <title>CSS styling Examples</title>
+        </head>
+        <!--internal css-->
+        <style>
+            h2{color:blue}
+            /*comment*/
+        </style>
+
+        <!--external css-->
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <hr>
+
+        <!--inline css-->
+        <h1 style="color:brown;">Inline CSS Example</h1>
+
+        <!--Internal CSS-->
+        <h2>Internal CSS Example</h2>
+
+        <!--External CSS-->
+        <h3>External CSS Example</h3>
+
+    <hr>
+
+    <!--Element sector example-->
+    <h4>Element sector example</h4>
+<hr>
+
+<!--id selector example-->
+<h2 id="myid">ID Selector Example</h2>
+<hr>
+
+<!--class selector example-->
+<h2 class="myclass">Class selector example</h2>
+<h4 class="myclass">Class selcetor example</h4>
+<hr>
+
+<!--Group selector Example-->
+<h5>Group selector Example</h5>
+<p>Group selector Example</p>
+<hr>
+
+    </body>
+    </html>
