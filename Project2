@@ -1,0 +1,29 @@
+<doctype html>
+    <html>
+        <head><title>Backgrounding</title>
+            <Style>
+                body{
+                    background-color:blue;/*color will appear if there is no image as cover*/
+                    background-image:url("trees.jpg"),url("forest.jpg");
+                    background-size:250px,cover;
+                    background-repeat:no-repeat;/*pic wont be repeated*/
+                    background-position:center;
+                    background-attachment:fixed;/*picture wont move*/
+                }
+            </Style>
+
+</head>
+            <body>Hello Everyone
+                
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+        
+            </body>
+        
+    </html>
