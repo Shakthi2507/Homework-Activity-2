@@ -1,0 +1,54 @@
+<doctype html>
+    <html>
+        <head>
+            <title>Text styling properties</title>
+            <style>
+                .text {
+                    color:red;
+                    font-size:40px;
+                }
+                .p{
+                    font-size:40px;
+                    font-family: Arial;
+                    color:blue;
+                }
+
+
+
+                *{
+                    text-align:center;
+                    font-family:cursive;
+                }  
+
+                 #text{
+                    text-shadow:2px 2px 10px red;
+                    /*1st px=right side,2nd px=downside,3rd px=fade of the text*/
+                }
+
+                #box{
+                    box-shadow:2px 2px 10px blue;
+                    /*1st px=right side,2nd px=downside,3rd px=fade of the text*/
+                }
+
+                #indent{
+                    text-indent:50px;
+                    font-family:arial;
+                    color:aqua
+                }
+            </style>
+        </head>
+
+        <body></body>
+
+            <h1>Typography</h1>
+            <p class="text">Welcome to codingal</p>
+            <mark class="p">Welcome to codingal</mark><br><br><br><br><br><br><br><br>
+            <h1 id="text">We can use the text shadow to give shadow to text</h1>
+            <h1 id="box">We can use the box shadow to give shadow to this element</h1>
+
+            <div>
+                <p>This is an example of text-indent</p>
+                <p id="indent">This is also an example of text-indent</p>
+            </div>
+        </body>
+    </html>
