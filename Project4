@@ -1,0 +1,34 @@
+<doctype html>
+    <html>
+        <head>
+            <title>Adavance Selectors and pseudo(classes and elements)</title>
+            
+            <link href="style2.css" rel="stylesheet" type="text/css" />
+        </head>
+
+        <body>
+            <h1>Welcome to the Kingdom of the Wild</h1>
+            <ul>
+                <li>LIONS</li>
+                <li>TIGERS</li>
+                <li>LEOPARDS</li>
+                <li>JAGUARS</li>
+                <li>BLACK PANTHERS</li>
+            </ul>
+
+            <p>Big Cats have always ruled the Jungle,
+                savanna,forest,anything that has life.
+            </p>
+
+            <p>Lions are known for their looks and their ability to rule the jungle.<br></p>
+               <p>Tigers are an dangerous , endangered species which are majestic in all way possible.<br></p>
+              <p>  Leoparads are just a smaller and agile version of jaguars.</p>
+               <p> Jaguars are excellent rulers of the crocs.<br></p>
+              <p>  Black panthers are just the tanned version of leopards and jaguars🤣🤣😂😂.
+            </p>
+
+            <a href="#">Jungle Tours</a>
+            <a href="#">latest Wild news</a>
+            <a href="#">gallery of the Wild</a>
+        </body>
+    </html>
