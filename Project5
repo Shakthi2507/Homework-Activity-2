@@ -22,6 +22,16 @@
         height:200px;
         width:200px;
     }
+
+    img#trees{
+        float:right;
+        border:solid 20px;
+    }
+
+    img#forest{
+        float:left;
+        border:solid 20px;
+    }
 </style>
 </head>
 
@@ -30,5 +40,18 @@
     <hr>
     <p class="example1">My content</p>
     <p class="example2">My content</p>
+
+    <p>O2 is life too.
+        Safe earth , Safe life.
+        Save earth , Save lives.
+    </p>
+
+    <p><img id="trees" src="trees.jpg"
+            alt="trees" style="width:100px;height:100px;">
+            <img id="forest" src="forest.jpg"
+            alt="forest" style="width:100px;height:100px;">
+
+            Forest are just big landmasses that contain trees
+        </p>
 </body>
 </html>
